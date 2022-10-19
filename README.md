@@ -3,16 +3,10 @@
 Welcome to my profile! I'm a student as well as a data science enthusiast, I like software development because it's great for turning ideas into code.
 
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="https://www.kaggle.com/hctormanuelruizjurez">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" />
-</a>
-<a href="https://www.instagram.com/hectorruizjuarez/">
+<a href="https://www.instagram.com/orlando_perez18/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://i0.wp.com/eltallerdehector.com/wp-content/uploads/2022/06/cd939-logo-instagram-png.png?fit=512%2C512&ssl=1" />
 </a>
-<a href="https://www.facebook.com/Hector.MRj">
+<a href="https://www.facebook.com/banda.perez.7">
   <img align="left" alt="Mehdi's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" />
 </a>
 
