@@ -13,13 +13,12 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 <br />
 <br />
 
-- 🔭 I’m currently an advisor to the AAAIMX <img src="https://www.aaaimx.org/img/sprites/aaaimx-transparent.png" width="30"> (*Association for the Advancement of Artificial Intelligence*)
-- 🌱 I’m currently learning Data Science | Full Stack Web development
+
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💼 I'm pursuing a Bachelor of Computer Systems Engineering
 - 🤔 My interests are data science, machine learning as well as software development
 - 💬 Ask me about anything. I will try to help you as much as I can
-- 📝 See my <a target="_blank" href="https://drive.google.com/file/d/1pkZbyNLZHSyLHytSahuEeOGdfrg9cw9n/view?usp=sharing" target="_blank">Curriculum Vitae</a> to get more info.
+more info.
 
 
 **Languages and Tools:**  
