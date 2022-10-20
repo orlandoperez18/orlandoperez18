@@ -14,10 +14,6 @@ Welcome to my profile! I'm a student as well as a data science enthusiast, I lik
 <br />
 
 
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💼 I'm pursuing a Bachelor of Computer Systems Engineering
-- 🤔 My interests are data science, machine learning as well as software development
-- 💬 Ask me about anything. I will try to help you as much as I can
 more info.
 
 
@@ -31,4 +27,4 @@ more info.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hectormanu&theme=dracula&hide_border=true)
 
-**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/hectormanu/count.svg)
+**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/orlandoperez18/count.svg)
